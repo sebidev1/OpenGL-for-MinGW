@@ -1,8 +1,6 @@
 OpenGL MinGW for Windows
 
-Install
- 
-Download the zipfile or Checkout the source and install it.
+ Download the zipfile or Checkout the source and install it.
 Go into the folders and fetch the ".h" and ".a" files out.
  
 include ->  C:\MinGW\include\GL\
